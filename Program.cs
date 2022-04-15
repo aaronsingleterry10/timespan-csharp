@@ -11,8 +11,9 @@ namespace TimeSpanLecture
         static void Main(string[] args)
         {
             // Creating
-
-            var timeSpan = new TimeSpan(1, 2, 3);
+            var current = new DateTime();
+            
+            var timeSpan = new TimeSpan();
             var timeSpan2 = new TimeSpan(1, 0, 0);
             var timeSpan3 = TimeSpan.FromHours(1);
 
