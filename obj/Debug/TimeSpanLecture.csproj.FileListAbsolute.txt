@@ -1,0 +1,7 @@
+C:\Data\Projects\CSharpFundamentals\TimeSpanLecture\bin\Debug\TimeSpanLecture.exe.config
+C:\Data\Projects\CSharpFundamentals\TimeSpanLecture\bin\Debug\TimeSpanLecture.exe
+C:\Data\Projects\CSharpFundamentals\TimeSpanLecture\bin\Debug\TimeSpanLecture.pdb
+C:\Data\Projects\CSharpFundamentals\TimeSpanLecture\obj\Debug\TimeSpanLecture.csprojAssemblyReference.cache
+C:\Data\Projects\CSharpFundamentals\TimeSpanLecture\obj\Debug\TimeSpanLecture.csproj.CoreCompileInputs.cache
+C:\Data\Projects\CSharpFundamentals\TimeSpanLecture\obj\Debug\TimeSpanLecture.exe
+C:\Data\Projects\CSharpFundamentals\TimeSpanLecture\obj\Debug\TimeSpanLecture.pdb
